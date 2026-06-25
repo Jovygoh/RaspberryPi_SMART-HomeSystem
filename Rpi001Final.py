@@ -11,10 +11,10 @@ from telegram.ext import (ApplicationBuilder, CommandHandler,MessageHandler,Cont
 #######################################################
 # CONFIGURATION
 #######################################################
-BLYNK_AUTH_TOKEN="pTOlr5EzVwGtrj9YGGwXvMuU0JxJHcSd"
+BLYNK_AUTH_TOKEN=""
 
-TELEGRAM_TOKEN="8765072217:AAFt_d_hsj6943M1i_X29huwcEdXM51C4io"
-TELEGRAM_CHAT_ID="1029415326"
+TELEGRAM_TOKEN=""
+TELEGRAM_CHAT_ID=""
 
 MQTT_BROKER="10.10.3.150"
 MQTT_PORT=1883
