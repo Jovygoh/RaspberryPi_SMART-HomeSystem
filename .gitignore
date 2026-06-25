@@ -1,0 +1,13 @@
+# Exclude PowerPoint presentation
+S.M.A.R.T.pptx
+
+# Exclude Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Exclude virtual environments
+.venv/
+venv/
+ENV/
+env/
