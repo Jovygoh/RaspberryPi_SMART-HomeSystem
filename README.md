@@ -3,8 +3,8 @@
 A decentralized, dual-node **Smart Home Automation and Monitoring System** built on Raspberry Pi hardware. The system leverages **MQTT** for lightweight inter-device messaging, features a **Tkinter-based GUI dashboard** for local control, and integrates with **Telegram Bot API** and **Blynk IoT** for remote monitoring, alert notifications, and manual overrides.
 
 ## 👥 Project Team
-* **Goh Xuan Hui** (System Node 1 / Integration)
-* **Ng Wei Ni** (System Node 2 / Hardware & Local GUI)
+* **Member1** (System Node 1 / Integration)
+* **Member2** (System Node 2 / Hardware & Local GUI)
 
 ---
 
